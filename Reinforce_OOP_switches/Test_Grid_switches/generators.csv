@@ -1,0 +1,4 @@
+name,bus,control,p_set
+Grid,MVside,Slack,0.0
+G1,B1,PQ,0.1
+G2,B2,PQ,0.1

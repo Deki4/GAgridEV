@@ -1,0 +1,4 @@
+name,bus,p_set
+load1,B1,0.2
+load2,B2,0.1
+load3,B3,0.1

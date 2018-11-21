@@ -1,0 +1,2 @@
+name,bus0,bus1,type,x,r,g,s_nom,phase_shift,x_pu_eff,r_pu_eff
+trans1,MVside,LVside,0.4 MVA 20/0.4 kV,0.058283252311448784,0.01425,0.0033750000000000004,0.4,150.0,0.14570813077862196,0.035625

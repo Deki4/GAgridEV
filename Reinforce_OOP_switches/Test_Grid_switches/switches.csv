@@ -1,0 +1,5 @@
+name,bus0,bus1,status
+s1,LVside,B2,closed
+s2,B2,B3,closed
+s3,B3,B1,open
+s4,B1,LVside,closed
